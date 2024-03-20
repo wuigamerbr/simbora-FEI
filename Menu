@@ -1,0 +1,6 @@
+a#include <stdio.h>
+#include <tarefas.h>
+#include <tarefas.c>
+
+struct tarefas;
+
